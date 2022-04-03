@@ -1,0 +1,24 @@
+{
+  "name": "tumoprog3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Flower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristTumo/TumoProg3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristTumo/TumoProg3/issues"
+  },
+  "homepage": "https://github.com/KristTumo/TumoProg3#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
